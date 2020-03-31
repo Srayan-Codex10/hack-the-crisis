@@ -9,11 +9,11 @@
 
 ----
 ## Team
-1. Suparno Karmakar
-2. Sourjya Mukherjee
-3. Subhajit Mondal
-4. Arpan Chakraborti
-5. TBA
+1. Suparno Karmakar (ssuparno1998@gmail.com)        - Backend Developer cum Owner
+2. Sourjya Mukherjee (sourjyar7@gmail.com)          - Backend Developer
+3. Subhajit Mondal (subhajit25mondal@gmail.com)     - UI UX Designer
+4. Arpan Chakraborti(arpanchakraborting@gmail.com)  - Frontend Developer
+5. Srayan Ray(rsroyon@gmail.com)                    - Frontend Developer
 
 ----
 
